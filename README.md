@@ -14,6 +14,6 @@ To externally connect to Milvus and the watsonx.data Presto engine, you will nee
 
 
 
-## Fill in the configuration details required in the ```config.env``` file before running the notebook by creating a new project inside watsonx.ai and through the list of services mentioned in watsonx.data
+### Fill in the configuration details required in the ```config.env``` file before running the notebook by creating a new project inside watsonx.ai and through the list of services mentioned in watsonx.data
 
 
