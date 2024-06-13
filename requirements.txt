@@ -1,0 +1,16 @@
+ipython-sql==0.4.1
+sqlalchemy==1.4.46
+pyhive[presto]
+python-dotenv
+grpcio==1.60.0 
+pymilvus
+milvus 
+sentence_transformers
+ibm-cloud-sdk-core
+langchain
+pypdf
+ibm-watson-machine-learning
+pandas==2.1.4
+streamlit
+langchain_community
+PyPDF2
